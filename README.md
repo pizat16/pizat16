@@ -5,8 +5,7 @@ Profesional en Ciberseguridad, IT y Arquitectura Aeroespacial, con experiencia e
 
 Mi trabajo combina:
 
-* 🛡️ Ciberseguridad táctica y forense – creación de defensas éticas y resilientes.
-* 🚀 Ingeniería aeroespacial– diseño de aeronaves colosales con inteligencia asistida.
+* 🛡️ Ciberseguridad táctica y forense – creación de defensas éticas y resilientes. 
 * 📚 Escritura técnica y académica – autora de la serie **Centinell Defense Suite**, con más de 20 libros registrados en Washington.
 * 🎯 Innovación estratégica – proyectos como *Skyguarcentinell Twins* y *SkyLion Omega II*, que unen tecnología, ética y visión humanitaria.
 
