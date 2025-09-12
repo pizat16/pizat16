@@ -1,7 +1,7 @@
 
 
 Hola, soy Iliana Leon.
-Profesional en Ciberseguridad, IT y Arquitectura Aeroespacial, con experiencia en el desarrollo de soluciones técnicas de alto nivel y proyectos visionarios que integran IA ética, defensa digital y aeronáutica avanzada.
+Profesional en Ciberseguridad, IT , con experiencia en el desarrollo de soluciones técnicas de alto nivel y proyectos visionarios que integran IA ética, defensa digital y aeronáutica avanzada.
 
 Mi trabajo combina:
 
