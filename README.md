@@ -6,7 +6,7 @@ Profesional en Ciberseguridad, IT , con experiencia en el desarrollo de solucion
 Mi trabajo combina:
 
 *  Ciberseguridad táctica y forense – creación de defensas éticas y resilientes. 
-* Escritura técnica y académica – autora de la serie **Centinell Defense Suite**, con más de 20 libros registrados en Washington.
+* Escritura técnica y académica – autora de la serie **Centinell Defense Suite**, con más de 20 libros registrados .
 *  Innovación estratégica – proyectos como *Skyguarcentinell Twins* y *SkyLion Omega II*, que unen tecnología, ética y visión humanitaria.
 
 Creo en la excelencia, la disciplina y la fe como cimientos de todo lo que construyo. Mis repositorios aquí reflejan no solo código, sino también una **visión integral**: unir la tecnología con el propósito.
