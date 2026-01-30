@@ -1,17 +1,16 @@
+Hello, I’m Iliana Leon.
 
+I am an IT professional focused on the architecture and assurance of secure, mission-critical digital systems. My work centers on cybersecurity, AI governance, and human-centered system design, with strict emphasis on control, traceability, and operational accountability.
 
-Hola, soy Iliana Leon.
-Profesional en IT , con experiencia en el desarrollo de soluciones técnicas de alto nivel y proyectos visionarios que integran IA ética, innovaciones digital .
+I design platforms intended for high-assurance environments where predictability, auditability, and human authority are mandatory. My engineering approach prioritizes governance, risk containment, and resilience over automation and unchecked autonomy.
 
-Mi trabajo combina:
+My current work includes the Centinell Defense Suite, a secure systems initiative focused on governance-driven artificial intelligence, platform integrity, and controlled system behavior.  
+Within this architecture, I develop Twin-based system models used for validation, simulation, and decision-support, operating exclusively under explicit human-in-the-loop control.
 
-* Escritura técnica y académica – autora de la serie **Centinell Defense Suite**, con más de 20 libros registrados .
-  Creo en la excelencia, la disciplina y la fe como cimientos de todo lo que construyo. Mis repositorios aquí reflejan no solo código, sino también una **visión integral**: unir la tecnología con el propósito.
+The projects presented here represent applied research and real implementations aligned with secure development practices. They are not experimental, autonomous, or self-directed systems.
 
+This profile reflects a defense-oriented engineering philosophy: disciplined design, governed intelligence, and technology that remains subordinate to human command.
 
+Centinell Platform  
+https://centinell-dashboard-private.onrender.com/
 
-
-<!---
-pizat16/pizat16 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
